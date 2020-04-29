@@ -1,0 +1,1 @@
+Query : select kode_treatment,jenis_treatment from treatment join memiliki using kode_treatment; projection : kode_treatment jenis_treatment Join : kode_treatment treatmentmemilikicost : 1924.0 --BNLJ
